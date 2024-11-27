@@ -1,0 +1,15 @@
+.role-management {
+  margin: 20px 0;
+}
+
+.add-role-btn {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.add-role-btn:hover {
+  background-color: #218838;
+}
