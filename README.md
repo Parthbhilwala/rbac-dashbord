@@ -131,20 +131,4 @@ Feel free to fork this repository and submit pull requests for enhancements, bug
 
 ---
 
-## **License**
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-## **Screenshots**
-
-### Dashboard View:
-![Dashboard](https://via.placeholder.com/800x400?text=RBAC+Dashboard)
-
-### Adding a User:
-![User Management](https://via.placeholder.com/800x400?text=User+Management)
-
----
-
-Let me know if you’d like additional details or need help setting up your repository!
